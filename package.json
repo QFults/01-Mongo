@@ -1,0 +1,23 @@
+{
+  "name": "01-Mongo",
+  "version": "1.0.0",
+  "description": "- Intro to MongoDB\r - Basic Mongo CRUD\r - Intro to Compass\r - Intro to MongoJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QFults/01-Mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QFults/01-Mongo/issues"
+  },
+  "homepage": "https://github.com/QFults/01-Mongo#readme",
+  "dependencies": {
+    "mongojs": "^3.1.0"
+  }
+}
